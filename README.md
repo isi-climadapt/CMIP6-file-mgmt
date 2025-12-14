@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CMIP6 NetCDF to Excel Merger
 
 A Python tool for merging CMIP6 climate data NetCDF files by geographic coordinates (latitude/longitude) into Excel format.
@@ -196,3 +197,4 @@ Example: `ACCESS_CM2_SSP585_tasmax.xlsx`
 ## License
 
 This project is for processing CMIP6 climate data files.
+
